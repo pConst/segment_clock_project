@@ -3,10 +3,10 @@
 ####(licensed under CC BY-SA 4_0)
 
 **/schematics/**		- Altium Designer directory, PCB sources  
+**/manufacturing/**		- PCB export for OSH Park  
 
 TODO:
-
-**/manufacturing/**		- PCB export for OSH Park  
+ 
 **/sources/**		- Atmel Studio directory, sources for AVR microcontroller  
 
 
